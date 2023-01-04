@@ -1,3 +1,3 @@
 import random
 if __name__ == "__main__":
-    print(random.randint(0,18))
+    print(random.randint(0,20))
